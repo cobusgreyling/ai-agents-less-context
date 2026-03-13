@@ -1,5 +1,7 @@
 # AI Agents Are Better at Building From Scratch With Less Context
 
+![Header](header.jpg)
+
 ## Two counterintuitive findings that challenge everything we assume about prompting AI Agents
 
 A recent study by Adnan et al. tested 144 AI-generated microservices across three agents — Claude Code, OpenAI Codex, and Code Qwen — using two prompting strategies and two generation scenarios. The [full paper](https://arxiv.org/abs/2603.09004v1) is worth reading. But the two headline findings are what stopped me.
