@@ -1,6 +1,8 @@
 # AI Agents Are Better at Building From Scratch With Less Context
 
-![Header](header.jpg)
+
+![Simple vs Over-Scripted](simple-vs-overscripted.jpg)
+
 
 ## Two counterintuitive findings that challenge everything I assume about prompting AI Agents
 
@@ -84,7 +86,9 @@ This connects to the broader shift I wrote about in [The Token Is Becoming the N
 
 The paper also revealed practical differences across the three agents.
 
+
 ![Cost Comparison](cost-comparison.jpg)
+
 
 Claude Code was the most expensive but generated the most concise outputs. More thinking internally, less writing externally. The same pattern I observed in my [Nemotron 3 Super reasoning budget sweep](https://github.com/cobusgreyling/NVIDIA-Nemotron-3-Super). When the model thinks more, the visible output gets tighter.
 
@@ -99,6 +103,7 @@ I built a simple demo that reproduces the core finding at a smaller scale. A sin
 Once with a minimal prompt, once with a detailed prompt.
 
 ![Simple vs Over-Scripted](simple-vs-overscripted.jpg)
+
 
 The minimal prompt is one sentence. The detailed prompt includes API schemas, response format examples, error handling conventions, naming patterns, and file structure guidelines.
 
