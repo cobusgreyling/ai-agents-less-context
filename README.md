@@ -1,7 +1,6 @@
 # AI Agents Are Better at Building From Scratch With Less Context
 
-![Header](header.jpg)
-
+![Simple vs Over-Scripted](simple-vs-overscripted.jpg)
 Two counterintuitive findings from a [study by Adnan et al.](https://arxiv.org/abs/2603.09004v1) that tested 144 AI-generated microservices across Claude Code, OpenAI Codex and Code Qwen.
 
 **Finding 1** — Minimal prompts outperformed detailed prompts. More context made the code worse.
@@ -10,7 +9,7 @@ Two counterintuitive findings from a [study by Adnan et al.](https://arxiv.org/a
 
 ## Simple vs Over-Scripted
 
-![Simple vs Over-Scripted](simple-vs-overscripted.jpg)
+
 
 ## Cost and efficiency
 
